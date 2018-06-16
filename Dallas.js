@@ -387,6 +387,8 @@ export default class Dallas extends React.Component {
       );
     }
   }
+
+  //////// adding bullshit
   
   const styles = StyleSheet.create({
     container: {
